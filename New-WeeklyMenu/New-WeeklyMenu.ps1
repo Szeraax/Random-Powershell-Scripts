@@ -1,4 +1,5 @@
-﻿<#
+#Requires -Modules @{ModuleName = "ImportExcel"; ModuleVersion = "5.0" }
+<#
 .SYNOPSIS
    Script to generate a weekly menu 
 
